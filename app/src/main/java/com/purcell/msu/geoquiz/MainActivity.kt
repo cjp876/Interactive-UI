@@ -88,7 +88,6 @@ class MainActivity : AppCompatActivity() {
             snackBar.setTextColor(Color.BLACK)
             snackBar.setBackgroundTint(Color.RED)
             snackBar.show()
-
         }
 
         binding.nextButton.setOnClickListener{
